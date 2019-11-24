@@ -4,7 +4,6 @@ https://programmers.co.kr/learn/courses/30/lessons/42860
 
 #include <iostream>
 #include <string>
-#include <vector>
 using namespace std;
 
 int now, r_cnt, l_cnt, ans;
