@@ -17,7 +17,6 @@ int alphaGap(char c) {
 	else {
 		gap = 'A' + 26 - c;
 	}
-
 	return gap;
 }
 
